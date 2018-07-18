@@ -53,12 +53,12 @@ select{
 	border-width: 1px;
 	border-color: #ccc;
 	width: 34%;
-	padding-left: 80px;
+	padding-left: 30px;
 }
 .stay2{
 	font-size: 16px;
 	width: 33%;
-	padding-left: 30px;
+	padding-left: 10px;
 }
 .text4{
 	color: #cfcfcf;
@@ -144,4 +144,12 @@ footer{
 	bottom: 0;
 	width: 100%;
 }
-
+a{
+	text-decoration : none;
+}
+.a1{
+	color: #5fc0cd;
+}
+.a2{
+	color: #cfcfcf;
+}
