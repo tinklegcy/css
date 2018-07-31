@@ -118,3 +118,6 @@ main{
 	overflow: auto;
 	margin-bottom: 15rem;
 }
+.element::-webkit-scrollbar {
+	display:none;
+}
