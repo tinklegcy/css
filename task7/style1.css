@@ -115,8 +115,8 @@ audio{
 	position: relative;
 }
 main{
-	overflow: auto;
-	margin-bottom: 15rem;
+	overflow: hidden;
+	padding-bottom: 9rem;
 }
 .element::-webkit-scrollbar {
 	display:none;
