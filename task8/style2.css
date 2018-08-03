@@ -162,7 +162,10 @@ footer {
   width: 100%;
     border-top: solid 1px #32c086;
 }
+.nav-link {
+  padding: 1rem;
+}
 .nav-link:hover {
   border-bottom: 0.2rem solid #fff;
-  display: inline-block;
+  padding-bottom: 0.8rem; 
 }
