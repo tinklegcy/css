@@ -36,6 +36,9 @@ a:hover {
 	justify-content: flex-end;
 	align-items: center;
 }
+.but-bule:focus {
+    outline: none;
+        }
 .but-bule {
 	background-color: #fff;
 	margin-right: 1.875rem;
@@ -117,7 +120,7 @@ span {
   	float: right;
 }
 .select2 {
-	position: relative;
+	/*position: relative;*/
 	bottom: 20px;
 	width: 120px;
 	height: 40px;
@@ -187,10 +190,10 @@ input[type="text"] {
 	height: 300px;
 }
 .text-top {
-	padding-bottom: 50px;
+	padding-bottom: 75px;
 }
 .a-m {
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 }
 .a1 {
 	color: #a8a8a8;
